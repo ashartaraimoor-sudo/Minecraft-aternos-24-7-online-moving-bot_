@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Ghop-Ghop",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Bild_Craft.aternos.me",
-    "port": 31689,
+    "ip": "ashar666.aternos.me",
+    "port": 30819,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
+        "Subscribe to Ghop-Ghop",
         "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
